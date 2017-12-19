@@ -105,7 +105,8 @@ module.exports = function (grunt) {
                 files: {
                     'min/moment-with-locales.min.js'     : 'min/moment-with-locales.js',
                     'min/locales.min.js'                 : 'min/locales.js',
-                    'min/moment.min.js'                  : 'moment.js'
+                    'min/moment.min.js'                  : 'moment.js',
+                    'build/umd/min/moment-with-locales.custom.min.js' : 'build/umd/min/moment-with-locales.custom.js'
                 }
             },
             options: {

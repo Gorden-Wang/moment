@@ -6,7 +6,6 @@ sauce_connect.log
 .sauce-labs.creds
 npm-debug.log
 .build*
-build
 coverage
 nyc_output
 .nyc_output
