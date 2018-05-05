@@ -11,6 +11,7 @@ A lightweight JavaScript date library for parsing, validating, manipulating, and
 ## customer zh-cn momentjs Build
 
 build/umd/min/moment-with-locales.custom.js
+
 build/umd/min/moment-with-locales.custom.min.js
 
 ## Port to ECMAScript 6 (version 2.10.0)
